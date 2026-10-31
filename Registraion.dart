@@ -9,6 +9,7 @@ class Registraion {
     print(Name);
     print(age);
     print(marks);
+    
   }
 }
 
